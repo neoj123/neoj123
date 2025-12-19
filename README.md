@@ -3,7 +3,7 @@ Computer Engineer @ UofT
 
 ## 🚀 About Me
 - 🎓 Computer Engineering student at [University of Toronto](https://www.utoronto.ca/)
-- 💻 Director of Technology @ UofT OSINT
+- 💻 Lead Software Developper @ UofT OSINT
 - 🎮 Gamer at heart (Valorant Immortal 3)
 - 🎹 Musician and gymrat
 
